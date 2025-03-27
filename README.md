@@ -1,6 +1,6 @@
 # Hey There! I'm Alisa.
 
-Bioengineering Student @ UC San Diego | Prior Systems Integration Intern | Biomedical Engineering Society
+__Bioengineering Student @ UC San Diego | Prior Systems Integration Intern | Biomedical Engineering Society__
 
 🎓 Bioengineering Student: Mechanical Engineering, Coding, & Biology Enthusiast  
 🔬 Passionate about merging biology, mechanics, and code to solve real-world problems.  
