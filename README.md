@@ -30,7 +30,7 @@ Whether it's building simulations, writing technical reports, or prototyping in 
 ## 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alisakunimoto/)
-- 🌐 [Portfolio Website](#)
+- 🌐 [Personal Portfolio](https://ari-kuni.github.io/)
 - 📧 Email: [alisakunimoto@gmail.com](mailto:alisakunimoto@gmail.com)
 
 Thanks for visiting! ✨
