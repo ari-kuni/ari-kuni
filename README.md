@@ -15,7 +15,7 @@ Whether it's building simulations, writing technical reports, or prototyping in 
 
 - 💻 Coding languages I use: `Python`, `MATLAB`, `C++`
 - 🔧 Software I use: `Fusion 360`, `ImageJ`, `AutoCAD`
-- 🧪 Interests: `Anything I can get my grimy little hands on`
+- ✩ Interests: `Anything I can get my grimy little hands on`
 
 ---
 
@@ -23,7 +23,7 @@ Whether it's building simulations, writing technical reports, or prototyping in 
 
 ### 🔬 Human Heart Model
 *Contributed to the Software and Electrical team is writing code for the flow sensor and servo. Flow sensor was used to monitor the flow of liquid throughout the model. Servo was used to simulate function of heart valves.*  
-[UCSD_BMES_PT_2024-25_HeartSim](https://github.com/d3moore2002/UCSD_BMES_PT_2024-25_HeartSim/tree/main)
+[Code Used in Heart Model Project](https://github.com/d3moore2002/UCSD_BMES_PT_2024-25_HeartSim/tree/main)
 
 ---
 
