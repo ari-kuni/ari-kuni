@@ -14,7 +14,7 @@ I'm currently pursuing a degree in Bioengineering with a focus on **bioengineeri
 Whether it's building simulations, writing technical reports, or prototyping in the makerspace — I love turning ideas into tangible outcomes.
 
 - 💻 Coding languages I use: `Python`, `MATLAB`, `C++`
-- 🔧 Software I use: `Fusion 360`, `ImageJ`, `AutoCAD`
+- 🔧 Software I use: `Fusion 360`, `AutoCAD`, `ImageJ`, `Simulink`
 - ✩ Interests: `Anything I can get my grimy little hands on`
 
 ---
