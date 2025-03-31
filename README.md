@@ -27,13 +27,18 @@ Whether it's building simulations, writing technical reports, or prototyping in 
 
 ---
 
+## Hobbies and Interests
+
+Ice Skating | Flute | Cats 🐈‍⬛ | Elevator Permits | Patents | Professional Yapper | Watching the same show 10 times
+
+
+---
+
 ## 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alisakunimoto/)
 - 🌐 [Personal Portfolio](https://ari-kuni.github.io/)
-- 📧 Email: [alisakunimoto@gmail.com](mailto:alisakunimoto@gmail.com)
-
-Thanks for visiting! ✨
+- 📧 [alisakunimoto@gmail.com](mailto:alisakunimoto@gmail.com)
 
 
 <!--
