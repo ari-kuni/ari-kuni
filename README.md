@@ -14,7 +14,7 @@ I'm currently pursuing a degree in Bioengineering with a focus on **bioengineeri
 Whether it's building simulations, writing technical reports, or prototyping in the makerspace — I love turning ideas into tangible outcomes.
 
 - 💻 Coding languages I use: `Python`, `MATLAB`, `C++`
-- 🔧 Software I use: `Fusion 360`, `AutoCAD`, `ImageJ`, `Simulink`
+- 🔧 Software I use: `Fusion 360`, `AutoCAD`, `ImageJ`, `Simulink`, `VSC`, `Arduino`
 - ✩ Interests: `Anything I can get my grimy little hands on`
 
 ---
@@ -29,7 +29,7 @@ Whether it's building simulations, writing technical reports, or prototyping in 
 
 ## Hobbies and Interests
 
-Ice Skating | Flute | Cats 🐈‍⬛ | Elevator Permits | Patents | Professional Yapper | Watching the same show 10 times
+Ice Skating | Semiconductors | Flute | Cats 🐈‍⬛ | Elevator Permits | Patents | Professional Yapper | Watching the same show 10 times
 
 
 ---
